@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/robots/static/css/main.3408313e.chunk.css",
+    "main.js": "/robots/static/js/main.0d5c905d.chunk.js",
+    "main.js.map": "/robots/static/js/main.0d5c905d.chunk.js.map",
+    "runtime~main.js": "/robots/static/js/runtime~main.de56ac5b.js",
+    "runtime~main.js.map": "/robots/static/js/runtime~main.de56ac5b.js.map",
+    "static/css/2.31dafeb2.chunk.css": "/robots/static/css/2.31dafeb2.chunk.css",
+    "static/js/2.abd0d98f.chunk.js": "/robots/static/js/2.abd0d98f.chunk.js",
+    "static/js/2.abd0d98f.chunk.js.map": "/robots/static/js/2.abd0d98f.chunk.js.map",
+    "index.html": "/robots/index.html",
+    "precache-manifest.1697a20284aef5c53a2ae4323cec9a8a.js": "/robots/precache-manifest.1697a20284aef5c53a2ae4323cec9a8a.js",
+    "service-worker.js": "/robots/service-worker.js",
+    "static/css/2.31dafeb2.chunk.css.map": "/robots/static/css/2.31dafeb2.chunk.css.map",
+    "static/css/main.3408313e.chunk.css.map": "/robots/static/css/main.3408313e.chunk.css.map"
+  }
+}
