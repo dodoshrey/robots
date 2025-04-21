@@ -1,6 +1,8 @@
 # robots
 A creative react app which filters a given list of robots and a click counter added at the end.
 
+Link to view solution: https://dodoshrey.github.io/robots/
+
 Installation:
 1. Clone project
 2. run npm install
