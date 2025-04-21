@@ -1,5 +1,10 @@
 # robots
-A creative react app which filters a given list of robots
+A creative react app which filters a given list of robots and a click counter added at the end.
+
+Installation:
+1. Clone project
+2. run npm install
+3. run npm start
 
 There are 2 folders in src folder.
 1. components
